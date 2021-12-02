@@ -89,3 +89,17 @@ ssm今晚通宵应该能写好，明天把gui和mongodb完成，
 11-29
 昨晚直接睡了，总结没做，没啥好说的，记住这次教训吧
 
+12-2
+springboot的项目案例还没写
+springcloud还没看完，
+jvm的视频没看
+多线程没看
+面试视频没看
+1.springmvc的项目得继续写了给它弄完，@
+2.比较困难的就是一个guijava，和java连接mongodb@
+3.java基础刘意的视频，
+4.jvm和并发视频
+5.springboot视频
+
+打了@是完成的，没@是没完成的，唉
+
